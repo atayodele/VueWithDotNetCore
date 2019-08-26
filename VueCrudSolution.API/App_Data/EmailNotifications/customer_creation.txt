@@ -1,0 +1,9 @@
+﻿<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+
+<u><strong>Your login details are stated below</strong></u>
+<p>Email : <strong>{email}</strong></p>
+<p>Password : <strong>{password}</strong></p> 
+
+<center>
+    <a href="{reset_link}" target="_blank" style="display: inline-block; padding: 11px 30px; margin: 20px 0px 30px; font-size: 15px; color: #fff; background: #00c0c8; border-radius: 60px; text-decoration:none;">Confirm Email</a>
+</center>
